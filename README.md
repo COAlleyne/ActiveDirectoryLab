@@ -9,12 +9,12 @@ In this project demonstration I am creating an Active Directory home lab environ
 <h2>Languages and Utilities Used</h2>
 
 - <b>Oracle VirtualBox 7.0</b> 
-- <b>Windows Server 2019</b>
 - <b>Powershell</b>
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Windows Server 2019</b>
 
 <h2>Program walk-through:</h2>
 
