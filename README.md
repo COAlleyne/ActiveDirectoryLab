@@ -160,7 +160,6 @@ Displaying client VM with IP address lease on domain controller VM:  <br/>
 <br />
 <br />
 The active directory is now setup and ready to manage new client machines!  <br/>
-<img src="https://i.imgur.com/1Ei9VHi.png" height="80%"/>
 <br />
 <br />
 </p>
