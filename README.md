@@ -28,7 +28,7 @@ Create Guest Additions:  <br/>
 <br />
 <br />
 Setup IP Adressing - NIC - Main Internet and NIC - VM Internet: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/mmpA8IK.png" height="80%" width="80%"/>
 <br />
 <br />
 Rename PC for clarity:  <br/>
