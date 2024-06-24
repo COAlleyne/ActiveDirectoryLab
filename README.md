@@ -13,10 +13,17 @@ In this project demonstration I am creating an Active Directory home lab environ
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10 ISO</b> (21H2)
 - <b>Windows Server 2019</b>
 
 <h2>Program walk-through:</h2>
+This is just a high level overview of creating a windows active directory as well as working with Windows networking in general.
+I will install two operating systems on two differnt virtual machines, one VM will house the active directory and the other will act as a user to be added to the directory.
+
+Let's begin!
+
+
+
 
 <p align="center">
 Create VM: <br/>
